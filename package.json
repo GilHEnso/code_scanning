@@ -1,0 +1,7 @@
+{
+  "name": "code_scanning",
+  "version": "1.0.0",
+  "dependencies": {
+    "jest": "^27.0.6"
+  }
+}
